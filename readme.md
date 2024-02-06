@@ -1,7 +1,7 @@
-# d
+# ReadmePro
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   ## Description
-  d
+  ReadmePro gives users ability to make their own readme file
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
@@ -11,15 +11,17 @@
   - [Tests](#tests)
   - [Questions](#questions)
   ## Installation
-  ds
+  to run the instalation instructions users have to run npm i
   ## Usage
-  undefined
+  ReadmePro is used to make a readme file so that users can create their own for themselves
   ## License
-  This project is licensed under the MIT License - see the [MIT License](https://opensource.org/licenses/MIT) for details
+  This project is licensed under the MIT License - see the [MIT License](https://opensource.org/licenses/MIT) for details 
+  https://opensource.org/licenses/MIT
   ## Contributing
-  d
+  N/A
   ## Tests
-  d
+  N/A
   ## Questions
   SuperMVS1991 https://github.com/SuperMVS1991;
   mvs1027@outlook.com
+
